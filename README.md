@@ -1,4 +1,5 @@
 # bmi_calculator
+this allows you to check your weight
 
 A new Flutter project.
 
