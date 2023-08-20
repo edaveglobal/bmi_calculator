@@ -1,4 +1,4 @@
-# bmi_calculator
+# BMI Calculator
 this allows you to check your body bmi
 it requires two input, your height and weight
 
