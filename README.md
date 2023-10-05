@@ -2,7 +2,7 @@
 this allows you to check your body bmi
 it requires two input, your height and weight
 
-it's a fFlutter project.
+it's a Flutter project.
 
 ## Getting Started
 
