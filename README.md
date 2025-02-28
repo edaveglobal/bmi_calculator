@@ -1,5 +1,5 @@
 # BMI Calculator
-this allows you to check your body bmi
+BMI this allows you to check your body bmi
 it requires two input, your height and weight
 
 it's a Flutter project.
